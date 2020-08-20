@@ -1,4 +1,58 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Guillem Gelabert"
-theme = "paper"
+theme = "anatole"
+summarylength = 100000
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+title = "Guillem Gelabert"
+author = "Guillem Gelabert"
+description = "Fullstack Developer"
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["posts"]
+images = ["images/site-feature-image.png"]
+
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/guillem-gelabert/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/guillem-gelabert"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:gelabert.guillem@gmail.com"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
