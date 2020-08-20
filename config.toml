@@ -44,6 +44,6 @@ url = "mailto:gelabert.guillem@gmail.com"
 
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 200
   identifier = "about"
-  url = "/about/"
+  url = "/about"
