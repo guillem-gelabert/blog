@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "guillem-gelabert.github.io"
 languageCode = "en-us"
 title = "Fullstack Developer"
 theme = "anatole"
