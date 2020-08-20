@@ -1,8 +1,8 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Guillem Gelabert"
+title = "Fullstack Developer"
 theme = "anatole"
-summarylength = 100000
+summarylength = 30
 enableEmoji = true
 enableRobotsTXT = false
 
@@ -12,11 +12,8 @@ author = "Guillem Gelabert"
 description = "Fullstack Developer"
 profilePicture = "images/profile.jpg"
 keywords = ""
-favicon = "favicons/"
 customCss = []
 customJs = []
-mainSections = ["posts"]
-images = ["images/site-feature-image.png"]
 
 
 ## Social links
