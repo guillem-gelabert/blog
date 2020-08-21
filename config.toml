@@ -1,20 +1,19 @@
 baseURL = "guillem-gelabert.github.io"
-languageCode = "en-us"
-title = "Fullstack Developer"
-theme = "anatole"
-summarylength = 30
 enableEmoji = true
 enableRobotsTXT = false
+languageCode = "en-us"
+summarylength = 30
+theme = "anatole"
+title = "Fullstack Developer"
 
 [params]
-title = "Guillem Gelabert"
 author = "Guillem Gelabert"
-description = "Fullstack Developer"
-profilePicture = "images/profile.jpg"
-keywords = ""
 customCss = []
 customJs = []
-
+description = "Fullstack Developer"
+keywords = ""
+profilePicture = "images/profile.jpg"
+title = "Guillem Gelabert"
 
 ## Social links
 [[params.socialIcons]]
@@ -36,14 +35,14 @@ url = "mailto:gelabert.guillem@gmail.com"
 
 [menu]
 
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 100
 
-  [[menu.main]]
-  name = "About"
-  weight = 200
-  identifier = "about"
-  url = "/about"
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 200
