@@ -1,4 +1,4 @@
-baseURL = "guillem-gelabert.github.io"
+baseURL = "https://guillem-gelabert.github.io"
 enableEmoji = true
 enableRobotsTXT = false
 languageCode = "en-us"
