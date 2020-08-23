@@ -1,27 +1,38 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+title = "About Me"
+description = "I'm a Fullstack Developer. This is my blog."
 date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about-me"]
+author = "Guillem Gelabert Sunyer"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+💁🏻‍♂️ I'm Guillem  
+💻 Fullstack Developer   
+🍍 From Mallorca   
+🍫 Based in Zürich   
+  
+👷🏼‍♂️ I build stuff in:  
+🕸 Typescript   
+🏃🏽‍♂️ Go   
+  
+🥰 I admire:   
+🎓 [Ben Eater](https://eater.net/8bit)   
+👨🏻 [Frank Zappa](https://www.youtube.com/watch?v=HFQKP3Ehucg&list=OLAK5uy_k7TNKg9Dv38e_uJeVfYY_XtoINa0xB1sQ&index=2)   
+💪🏿 [Malcom X](https://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
+     
+🙇🏼‍♂️ I can't wait to learn more about:   
+🌍 [Distributed Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications9781491903063/)  
+👩‍🔧 [Software Design](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)  
+🤖 [Robotics](http://learn.mearm.com/)  
+  
+😯 Some of my interests are:  
+💸 [Economics](https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century)  
+🧗🏻‍♂️ Climbing  
+🎸 Making music  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+I'll write short posts  
+or long tweets  
+mostly technical
 
