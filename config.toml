@@ -7,10 +7,11 @@ theme = "anatole"
 title = "Fullstack Developer"
 
 [params]
-author = "Guillem Gelabert"
+author = "Guillem Gelabert Sunyer"
 customCss = []
 customJs = []
 description = "Fullstack Developer"
+displayMode = "dark"
 keywords = ""
 profilePicture = "images/profile.jpg"
 title = "Guillem Gelabert"
@@ -29,7 +30,7 @@ url = "https://github.com/guillem-gelabert"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:gelabert.guillem@gmail.com"
+url = "mailto:gelabert.guillem+blog@gmail.com"
 
 ## Menu items
 
