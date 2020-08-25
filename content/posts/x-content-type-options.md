@@ -2,6 +2,7 @@
 title: "X-Content-Type-Options: Don't sniff the mimetype"
 date: 2020-08-23T13:21:59+02:00
 draft: false
+categories: ["Security Headers"]
 ---
 With [Content-Security-Policy](/posts/content-security-policy/) you can avoid foreign scripts from being executed, but you can still inject malicious code as plaintext and let the browser figure out that it should be handled like code, defeating the whole purpose of CSP.
 

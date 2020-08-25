@@ -2,6 +2,7 @@
 title: "Content-Security-Policy: you're not on the guest list"
 date: 2020-08-21T16:29:46+02:00
 draft: false
+categories: ["Security Headers"]
 ---
 
 Content-Security-Policy works like a guest list for resources, or more like a bouncer with highly specific acceptance criteria. It allows for very granular control on which origins should be allowed and for which cases: specifically for iframes, forms tags, images sources, fonts, XHR or WebSockets connections and plenty more ([there are 14 directives](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy#Directives)).

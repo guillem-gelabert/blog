@@ -2,6 +2,7 @@
 title: "Referrer-Policy: Whatever I've been doing is non of your business"
 date: 2020-08-24T09:19:26+02:00
 draft: false
+categories: ["Security Headers"]
 ---
 
 The infamously misspelled Referer Header contains the address where the request originated, it is there for analytics, referrals etc. But as URLs can and do encode all sorts of information as Search Params or Path Variables it can open the door to tracking and leaking.  The Referrer-Policy header allows you to limit the content of that header.

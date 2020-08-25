@@ -2,6 +2,7 @@
 title: "X-XSS-Protection: a security header gone wrong"
 date: 2020-08-20T21:37:47+02:00
 draft: false
+categories: ["Security Headers"]
 ---
 
 In 2010 Chrome shipped a new feature, XSS Auditor, that would prevent unsafe parts of the website to be rendered. Together with XSS Auditor a new HTTP Header was introduced, with which its behaviour could be controlled. It provided the following options:

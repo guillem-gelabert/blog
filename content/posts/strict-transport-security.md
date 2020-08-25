@@ -2,6 +2,7 @@
 title: "Strict Transport Security: HTTPS and HTTPS only"
 date: 2020-08-22T08:14:15+02:00
 draft: false
+categories: ["Security Headers"]
 ---
 
 How many times did we, in the early days of internet, type `http://www`? Thanks to the browser's integrated search and autocomplete this isn't the case anymore, most of us just write `my-bank.com` and expect the browser to do the rest. This can have security implications which Strict Transport Security (HSTS) tries to solve.
