@@ -1,5 +1,5 @@
 ---
-title: "Strict Transport Security: HTTPS and HTTPS only"
+title: "Strict-Transport-Security: HTTPS and HTTPS only"
 date: 2020-08-22T08:14:15+02:00
 draft: false
 categories: ["Security Headers"]
@@ -11,4 +11,4 @@ The problem is that the browser prepends by default the insecure `http://` schem
 
 The HSTS header tells the browser to remember the protocol and to only connect to the secure version. Note that the first time you visit a website you'll still be vulnerable to this type of attack, as the url is not yet in the browsers HSTS registry, but as long as you've visited that website before, you'll be safe.
 
-To protect that first contact you can use the `preload` flag, instructing the browser to check if your  domain is registered to Google's HTSTS preload service.
+To protect that first contact you can use the `preload` flag, instructing the browser to check if your domain is registered to Google's HTSTS preload service.

@@ -1,5 +1,5 @@
 ---
-title: "X Frame Options: iframes are so 2005"
+title: "X-Frame-Options: iframes are so 2005"
 date: 2020-08-25T08:45:52+02:00
 draft: false
 ---
