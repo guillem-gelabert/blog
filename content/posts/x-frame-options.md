@@ -2,6 +2,7 @@
 title: "X-Frame-Options: iframes are so 2005"
 date: 2020-08-25T08:45:52+02:00
 draft: false
+categories: ["Security Headers"]
 ---
 
 Back in the day _iframes_ were used everywhere —keeping the URL the same while navigating, embedding Adobe Reader, even as a layouting tool 🤦🏽‍♀️— but they can circumvent some CSP policies, are an accessibility nightmare and most notably they are the main medium of _clickjacking_ attacks. That's why they've ve fallen from grace and because there are better alternative for almost every use case.
